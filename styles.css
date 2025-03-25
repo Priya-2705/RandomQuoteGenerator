@@ -1,0 +1,30 @@
+body {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(245, 245, 236);
+}
+
+.card {
+    width: 50%;
+    height: 40%;
+    margin: auto;
+    margin-top: 10%;
+    border: 3px orange solid;
+    border-radius: 30%;
+    padding: 3%;
+    background-color: bisque;
+}
+
+h1 {
+    color: brown;
+}
+
+button {
+    width: 30%;
+    background-color: rgb(255, 82, 82);
+    border: 3px red solid;
+    height: 30px;
+    border-radius: 5%;
+    cursor: pointer;
+}
